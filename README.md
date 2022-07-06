@@ -1,4 +1,4 @@
-# bookhub
+# Bookhub
 A simple e-book management android app that fetches the eBooks from a database and let the user choose the favorite ebook from the list.
 
 # Screenshots
